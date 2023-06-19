@@ -3,6 +3,7 @@
 <img src="../img/example_theme-plain2.jpg" width="80%">
 
 ## Notes
+* Trackball cover-plate is designed for [AZ1UBALL](https://github.com/palette-system/az1uball). Recommended thickness: 1mm
 * Middle plate 1 is used between the top plate and PCB, and middle plate 2 is used between PCB and bottom plate.
 * Recommended thickness of middle plate: 3mm
   - Middle plate 2 can be used with a thickness of 2 mm, but rubber feet must be attached to the bottom plate or the reset switch must be removed.
