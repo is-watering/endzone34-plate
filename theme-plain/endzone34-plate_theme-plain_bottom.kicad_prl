@@ -64,11 +64,17 @@
       35,
       36
     ],
-    "visible_layers": "0001020_ffffffff",
+    "visible_layers": "7ffffff_ffffffff",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
-    "filename": "endzone34-theme-cyber_bottom_jlc.kicad_prl",
+    "filename": "endzone34-plate_theme-plain_bottom.kicad_prl",
     "version": 3
   },
   "project": {

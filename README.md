@@ -4,7 +4,7 @@
 Original EndZone34: https://github.com/takashicompany/endzone34
 
 ## Dependency (FR4-Plate)
-* [Salicylic-acid3/KiCAD_FootPrint](https://github.com/Salicylic-acid3/KiCAD_FootPrint)
+* [is-watering/isw-kbd-lib](https://github.com/is-watering/isw-kbd-lib)
 
 ## Notes
 * All plates except the cover plate are designed for use with MX Switch Sockets.
